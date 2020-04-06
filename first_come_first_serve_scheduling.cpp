@@ -67,5 +67,6 @@ int main()
 	int burst_time[] = {10, 5, 8};
 
 	findavgTime(processes, n, burst_time);
+	cout<<"done";
 	return 0;
 }
