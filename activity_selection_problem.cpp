@@ -39,4 +39,5 @@ int main()
 	int n = sizeof(s)/sizeof(s[0]);
 	printMaxActivities(s, f, n);
 	return 0;
+	
 }
